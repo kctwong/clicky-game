@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "arcticfox.jpg"
+    },
+    {
+      "id": 2,
+      "image": "bird.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "cat.jpg"
+    },
+    {
+      "id": 4,
+      "image": "deer.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "fox.jpg"
+    },
+    {
+      "id": 6,
+      "image": "frog.jpg"
+    },
+    {
+      "id": 7,
+      "image": "hedgehog.jpg"
+    },
+    {
+      "id": 8,
+      "image": "horse.jpg"
+    },
+    {
+      "id": 9,
+      "image": "koala.jpg"
+    },
+    {
+      "id": 10,
+      "image": "lion.jpg"
+    },
+    {
+      "id": 11,
+      "image": "rabbit.jpg"
+    },
+    {
+      "id": 12,
+      "image": "raccoon.jpg"
+    }
+  ]
